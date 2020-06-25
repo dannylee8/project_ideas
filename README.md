@@ -5,23 +5,33 @@
 ### Ready to start
 
 * Pomodoro
-
-### Partial Built
 * DevTeam - Developer base
 
-
 ### Needs Planning
+
+** Kids related **
+
 * CSS Art gallery
-* Penpal/kids art gallery sharing
+* Penpal for kids
+* Kids art gallery sharing
+
+** Coding tools related **
+
 * JQ tutorial/playground
 * 3d Mind map of JSON
-* Fetch and serve basic api
 * CSS Calculator exports bit shapes in CSS format
-* virtual business cards
-* Github contributions by users
 * Github readme.md to pdf 
+
+* virtual business cards
 * 60 day workplan lister
+
+** API related**
+
+* Fetch and serve basic api
+* Github contributions by users
 * Google drive api to see data usage
+
+** job hunt related** 
 
 * website review app - for others to test and critique your site
 * Flashcards app for interview
@@ -32,13 +42,21 @@
 
 ### Very Difficult
 
-* App for neuropsychological testing
+* Translator software
+* Ruby UML site
+
+** Video Conferencing related **
 * Meeting games
 * escape room (buttons, switches, etc)
-* Translator software
+
+** Caterint related **
+
 * Catering backend
 * Lunch and learn - order for others
-* Ruby UML site
+
+** Medical related **
+
+* App for neuropsychological testing
 * medical coder software
 * encrypted mail for medical professionals
 
